@@ -1,0 +1,6 @@
+{
+  "name": "Lengua Castellana 1.º ESO — Español, Armenio y Ruso",
+  "description": "Aplicación interactiva completa de preparación de Lengua Castellana para 1.º de ESO con explicaciones en armenio y ruso, pronunciación de voz y examen interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
